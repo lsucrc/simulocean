@@ -1,7 +1,7 @@
 # NOAA
 
 ## National Data Buoy Center Historical Data Scraper
-
+By Braden Yosko (2019-2020)
 
 ## Overview
 This python program will download historical buoy data from the National Oceanic and Atmospheric Administration's National Data Buoy Center stored here:   
